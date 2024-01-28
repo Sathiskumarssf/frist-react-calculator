@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/frist-react-calculator/static/css/main.ceb1d13e.css",
-    "main.js": "/frist-react-calculator/static/js/main.871c378e.js",
+    "main.css": "/frist-react-calculator/static/css/main.a3b5dece.css",
+    "main.js": "/frist-react-calculator/static/js/main.bcbc9b81.js",
     "static/js/787.7278e9f4.chunk.js": "/frist-react-calculator/static/js/787.7278e9f4.chunk.js",
     "static/media/back.webp": "/frist-react-calculator/static/media/back.d148b6c9f669c2d3ef1c.webp",
     "static/media/backgroung.jpg": "/frist-react-calculator/static/media/backgroung.b30c5f94d094145f81df.jpg",
     "index.html": "/frist-react-calculator/index.html",
-    "main.ceb1d13e.css.map": "/frist-react-calculator/static/css/main.ceb1d13e.css.map",
-    "main.871c378e.js.map": "/frist-react-calculator/static/js/main.871c378e.js.map",
+    "main.a3b5dece.css.map": "/frist-react-calculator/static/css/main.a3b5dece.css.map",
+    "main.bcbc9b81.js.map": "/frist-react-calculator/static/js/main.bcbc9b81.js.map",
     "787.7278e9f4.chunk.js.map": "/frist-react-calculator/static/js/787.7278e9f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ceb1d13e.css",
-    "static/js/main.871c378e.js"
+    "static/css/main.a3b5dece.css",
+    "static/js/main.bcbc9b81.js"
   ]
 }
